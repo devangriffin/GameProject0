@@ -13,6 +13,49 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin AstronautDude.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=185,122,87,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:AstronautDude.png
+
+#begin bangers.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:bangers.spritefont
+
+#begin Car.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=185,122,87,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Car.png
+
+#begin Earth.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=185,122,87,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Earth.png
+
 #begin FunSun.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -48,4 +91,16 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:MovingSun.png
+
+#begin Star.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=185,122,87,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Star.png
 
